@@ -1,2 +1,2 @@
 # Spinner
-Merupakan function yang mengubah posisi value dalam list.
+Is a function to change position of values inside a list
